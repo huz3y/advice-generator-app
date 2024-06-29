@@ -1,0 +1,19 @@
+body {
+  font-family: var(--font-primary);
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--color-primary-light);
+}
+
+.advice-text {
+  font-weight: 800;
+  font-size: 2.8rem;
+  text-align: center;
+}
+
+.count-text {
+  color: var(--color-primary-neon);
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}

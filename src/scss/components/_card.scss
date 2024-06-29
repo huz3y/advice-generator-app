@@ -1,0 +1,12 @@
+.card {
+  background-color: var(--color-grayish-dark);
+  border-radius: 2rem;
+  max-width: 50%;
+  padding: 4rem 6rem;
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative;
+}

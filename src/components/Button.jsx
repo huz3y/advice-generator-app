@@ -7,7 +7,7 @@ Button.propTypes = {
 export default function Button({ onGenerateMessage }) {
   return (
     <button className="btn" onClick={onGenerateMessage}>
-      <img src="./src/assets/images/icon-dice.svg"></img>
+      <img src="./images/icon-dice.svg"></img>
     </button>
   );
 }

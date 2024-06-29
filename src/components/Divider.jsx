@@ -3,6 +3,7 @@ export default function Divider() {
     <img
       className="divider u-mb-large"
       src="./images/pattern-divider-desktop.svg"
+      alt="section divider"
     />
   );
 }
